@@ -1,4 +1,4 @@
-# 📚 BuzzPhonics - Complete Project Submission Guide
+# 📚 BuzzPhonics 
 
 ## Introduction
 
